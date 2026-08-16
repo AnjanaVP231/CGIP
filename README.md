@@ -1,6 +1,6 @@
 # Computer Graphics and Image Processing (CGIP)
 
-This folder contains Python implementations of basic **Computer Graphics algorithms** using **Pygame**.
+This folder contains Python implementations of basic **Computer Graphics algorithms** using **Matplotlib**.
 
 ## Programs
 
@@ -13,12 +13,12 @@ This folder contains Python implementations of basic **Computer Graphics algorit
 ## Requirements
 
 * Python 3.x
-* Pygame
+* Matplotlib
 
 Install Pygame using:
 
 ```bash
-pip install pygame
+pip install Matplotlib
 ```
 
 ## Algorithms Covered
@@ -38,7 +38,7 @@ The Midpoint Circle algorithm generates a circle using a decision parameter and 
 ## Technologies Used
 
 * **Python**
-* **Pygame**
+* **Matplotlib**
 
 ## Purpose
 
